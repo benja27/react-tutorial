@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books<a name="about-project"></a>
+# 📖 To do List<a name="about-project"></a>
 
 **Awesome Books** In this project, I build a basic website that allows users to have a simple to-do list using list structure and webpack.
 
